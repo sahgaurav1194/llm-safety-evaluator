@@ -4,3 +4,4 @@ __pycache__/
 mlruns/
 safety_results.csv
 .DS_Store
+.env
