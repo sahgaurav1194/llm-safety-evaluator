@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/macbookpro/Desktop/llm-safety-evaluator/mlruns/395018208027601074/46bd08b125cd4dbcada9673675e4dfbf/artifacts
+end_time: 1781034864894
+entry_point_name: ''
+experiment_id: '395018208027601074'
+lifecycle_stage: active
+run_id: 46bd08b125cd4dbcada9673675e4dfbf
+run_name: safety-eval-llama-3.1-8b-instant
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781034859217
+status: 3
+tags: []
+user_id: macbookpro

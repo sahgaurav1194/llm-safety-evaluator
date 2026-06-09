@@ -1,0 +1,6 @@
+venv/
+.env
+__pycache__/
+mlruns/
+safety_results.csv
+.DS_Store
